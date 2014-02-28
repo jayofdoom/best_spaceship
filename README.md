@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 internet_spaceships
 ========
 Fork this repository to make your very own internet spaceship. You'll want to
