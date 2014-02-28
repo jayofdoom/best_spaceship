@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 internet_spaceships
 ========
 Fork this repository to make your very own internet spaceship. You'll want to
@@ -27,3 +28,9 @@ error, it will be destroyed and you lose precious Dogecoin (or will,
 when we implement that).
 
 Check out example_firmware.py to see a basic ship.
+=======
+best_spaceship
+==============
+
+Best spaceship for internet spaceships
+>>>>>>> d23417f790f4b772ef3da7645107558806b91d94
